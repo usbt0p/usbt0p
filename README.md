@@ -1,7 +1,8 @@
 <h1 align="center">░░░▒▒▒   I'm Lucas   ▒▒▒░░░</h1>
 <h3 align="center">an AI student learning everything I can</h3>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=usbt0p)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <h3 align="left">Some stuff about me:</h3>
 
@@ -9,9 +10,6 @@
 - I enjoy learning new stuff and solving problems
 - I'm interested in mostly everything! I love finding new abstractions to see the world trough, and new connections between ideas
 - List comprehensions are great. Use more of those
-
-<p align="left">
-</p>
 
 <h3 align="left">Stuff I Usually work with:</h3>
 <p align="left"> 
@@ -25,7 +23,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Vigne_hold_TensorFlow_for_Deep_Learning.png" width="600">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usbt0p&theme=nord_dark" width="600">
+
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Vigne_hold_TensorFlow_for_Deep_Learning.png" width="700">
 </img>
+
+
+
 
 
