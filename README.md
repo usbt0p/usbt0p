@@ -1,5 +1,5 @@
-<h1 align="center">I'm Lucas</h1>
-<h3 align="center">an AI student learning everything he can</h3>
+<h1 align="center">░░░▒▒▒   I'm Lucas   ▒▒▒░░░</h1>
+<h3 align="center">an AI student learning everything I can</h3>
 
 
 
