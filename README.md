@@ -17,7 +17,7 @@
 <h4 align="left">My usual languages and libraries:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,pytorch,tensorflow,opencv,sklearn" />
+    <img src="https://skillicons.dev/icons?i=python,bash,pytorch,opencv,sklearn" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <h4 align="left">Things I use ocasionally:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,java,cpp,p5js" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,tensorflow,java,cpp,p5js" />
   </a>
 </p>
 
